@@ -49,7 +49,6 @@ const Image = styled.img`
   border-radius: 2px;
   margin-bottom: 8px;
   object-fit: cover;
-  border: 2px solid slateblue;
 `;
 
 const Tags = styled.ul`
